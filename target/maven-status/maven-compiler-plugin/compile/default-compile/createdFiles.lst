@@ -1,0 +1,10 @@
+com\budgetify\Controllers\ExpenseController.class
+com\budgetify\Models\Expense.class
+com\budgetify\Data\IExpenseRepository.class
+com\budgetify\Interfaces\IIncomeService.class
+com\budgetify\Services\ExpenseService.class
+com\budgetify\Interfaces\IExpenseService.class
+com\budgetify\Controllers\IncomeController.class
+com\budgetify\BudgetifyApplication.class
+com\budgetify\Models\Income.class
+com\budgetify\Data\IIncomeRepository.class
